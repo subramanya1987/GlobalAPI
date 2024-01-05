@@ -1,0 +1,92 @@
+2024-01-05 08:05:19.2486 Debug Message Template Auto Format enabled
+2024-01-05 08:05:19.3460 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2024-01-05 08:05:19.3527 Trace Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2024-01-05 08:05:19.3586 Debug FileTarget FilePathLayout with FilePathKind.Relative using AppDomain.BaseDirectory: /app/bin/Debug/net6.0/
+2024-01-05 08:05:19.3586 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2024-01-05 08:05:19.3586 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2024-01-05 08:05:19.3745 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2024-01-05 08:05:19.3777 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2024-01-05 08:05:19.3777 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2024-01-05 08:05:19.3777 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2024-01-05 08:05:19.3882 Debug Adding target NLog.Targets.FileTarget(Name=logfile)
+2024-01-05 08:05:19.3882 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-05 08:05:19.3882 Trace ParseRulesElement
+2024-01-05 08:05:19.4602 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.4.2092. Product version: 5.2.4+5ed75b125a691ce9f01e64641f1a79f438385847. GlobalAssemblyCache: False
+2024-01-05 08:05:19.5477 Debug Watching file-filter 'nlog.config' in directory: /app
+2024-01-05 08:05:19.5477 Debug --- NLog configuration dump ---
+2024-01-05 08:05:19.5477 Debug Targets:
+2024-01-05 08:05:19.5606 Debug FileTarget(Name=logfile)
+2024-01-05 08:05:19.5606 Debug Rules:
+2024-01-05 08:05:19.5693 Debug logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ logfile ]
+2024-01-05 08:05:19.5693 Debug --- End of NLog configuration dump ---
+2024-01-05 08:05:19.5787 Trace FindReachableObject<System.Object>:
+2024-01-05 08:05:19.5787 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Debug Info Warn Error Fatal ] writeTo: [ logfile ]'
+2024-01-05 08:05:19.5787 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic.IList`1[NLog.Targets.Target]
+2024-01-05 08:05:19.5890 Trace  Scanning FileTarget 'FileTarget(Name=logfile)'
+2024-01-05 08:05:19.5890 Trace   Scanning Property FileName 'D:/My Code/GlobalAPIServices/GlobalAPIServices/GlobalAPIServices/logs/${shortdate}_logfile.txt' NLog.Layouts.Layout
+2024-01-05 08:05:19.5890 Trace   Scanning SimpleLayout 'D:/My Code/GlobalAPIServices/GlobalAPIServices/GlobalAPIServices/logs/${shortdate}_logfile.txt'
+2024-01-05 08:05:19.5890 Trace    Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2024-01-05 08:05:19.5890 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2024-01-05 08:05:19.6002 Trace    Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2024-01-05 08:05:19.6002 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2024-01-05 08:05:19.6002 Trace   Scanning Property Layout '${longdate} ${level:uppercase=true} ${message}' NLog.Layouts.Layout
+2024-01-05 08:05:19.6002 Trace   Scanning SimpleLayout '${longdate} ${level:uppercase=true} ${message}'
+2024-01-05 08:05:19.6092 Trace    Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2024-01-05 08:05:19.6092 Trace    Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2024-01-05 08:05:19.6092 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2024-01-05 08:05:19.6092 Trace    Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2024-01-05 08:05:19.6092 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2024-01-05 08:05:19.6191 Trace    Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2024-01-05 08:05:19.6191 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic.IList`1[NLog.Config.LoggingRule]
+2024-01-05 08:05:19.6191 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic.IList`1[NLog.Filters.Filter]
+2024-01-05 08:05:19.6288 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=/app/nlog.config
+2024-01-05 08:05:19.6288 Debug Unused target checking is started... Rule Count: 1, Target Count: 1
+2024-01-05 08:05:19.6412 Debug Unused target checking is completed. Total Rule Count: 1, Total Target Count: 1, Unused Target Count: 0
+2024-01-05 08:05:19.6412 Trace Initializing Layout Renderer: ${message}
+2024-01-05 08:05:19.6412 Trace Initializing Layout Renderer: ${literal}
+2024-01-05 08:05:19.6486 Trace Initializing Layout Renderer: ${level}
+2024-01-05 08:05:19.6486 Trace Initializing Layout Renderer: ${literal}
+2024-01-05 08:05:19.6486 Trace Initializing Layout Renderer: ${longdate}
+2024-01-05 08:05:19.6486 Trace Initializing ${longdate} ${level:uppercase=true} ${message}
+2024-01-05 08:05:19.6607 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2024-01-05 08:05:19.6607 Trace Scanning SimpleLayout '${longdate} ${level:uppercase=true} ${message}'
+2024-01-05 08:05:19.6607 Trace  Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2024-01-05 08:05:19.6680 Trace  Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2024-01-05 08:05:19.6680 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2024-01-05 08:05:19.6680 Trace  Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2024-01-05 08:05:19.6680 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2024-01-05 08:05:19.6774 Trace  Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2024-01-05 08:05:19.6774 Trace Initializing Layout Renderer: ${literal}
+2024-01-05 08:05:19.6774 Trace Initializing Layout Renderer: ${shortdate}
+2024-01-05 08:05:19.6875 Trace Initializing Layout Renderer: ${literal}
+2024-01-05 08:05:19.6875 Trace Initializing D:/My Code/GlobalAPIServices/GlobalAPIServices/GlobalAPIServices/logs/${shortdate}_logfile.txt
+2024-01-05 08:05:19.6875 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2024-01-05 08:05:19.6875 Trace Scanning SimpleLayout 'D:/My Code/GlobalAPIServices/GlobalAPIServices/GlobalAPIServices/logs/${shortdate}_logfile.txt'
+2024-01-05 08:05:19.6875 Trace  Scanning Property LayoutRenderers 'NLog.LayoutRenderers.LayoutRenderer[]' System.Collections.Generic.IEnumerable`1[NLog.LayoutRenderers.LayoutRenderer]
+2024-01-05 08:05:19.6993 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2024-01-05 08:05:19.6993 Trace  Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2024-01-05 08:05:19.6993 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2024-01-05 08:05:19.6993 Trace Initializing FileTarget(Name=logfile)
+2024-01-05 08:05:19.7127 Trace FindReachableObject<NLog.Layouts.Layout>:
+2024-01-05 08:05:19.7127 Trace Scanning FileTarget 'FileTarget(Name=logfile)'
+2024-01-05 08:05:19.7186 Trace  Scanning Property FileName 'D:/My Code/GlobalAPIServices/GlobalAPIServices/GlobalAPIServices/logs/${shortdate}_logfile.txt' NLog.Layouts.Layout
+2024-01-05 08:05:19.7186 Trace  Scanning Property Layout '${longdate} ${level:uppercase=true} ${message}' NLog.Layouts.Layout
+2024-01-05 08:05:19.7186 Trace FileTarget(Name=logfile) has 2 layouts
+2024-01-05 08:05:19.7186 Trace FileTarget(Name=logfile): Using appenderFactory: NLog.Internal.FileAppenders.SingleProcessFileAppender+Factory
+2024-01-05 08:05:19.7285 Info Configuration initialized.
+2024-01-05 08:06:45.5174 Debug Targets configured when LogLevel >= Debug for Logger: GlobalAPIServices.LoggerService.LoggerManager
+2024-01-05 08:06:45.5174 Debug Logger GlobalAPIServices.LoggerService.LoggerManager [Debug] => logfile
+2024-01-05 08:06:45.5174 Debug Logger GlobalAPIServices.LoggerService.LoggerManager [Info] => logfile
+2024-01-05 08:06:45.5174 Debug Logger GlobalAPIServices.LoggerService.LoggerManager [Warn] => logfile
+2024-01-05 08:06:45.5174 Debug Logger GlobalAPIServices.LoggerService.LoggerManager [Error] => logfile
+2024-01-05 08:06:45.5280 Debug Logger GlobalAPIServices.LoggerService.LoggerManager [Fatal] => logfile
+2024-01-05 08:06:45.5513 Debug FileTarget(Name=logfile): Preparing for new file: '/app/bin/Debug/net6.0/D:/My Code/GlobalAPIServices/GlobalAPIServices/GlobalAPIServices/logs/2024-01-05_logfile.txt'
+2024-01-05 08:06:45.5604 Debug FileTarget(Name=logfile): Creating file appender: '/app/bin/Debug/net6.0/D:/My Code/GlobalAPIServices/GlobalAPIServices/GlobalAPIServices/logs/2024-01-05_logfile.txt'
+2024-01-05 08:06:45.5604 Trace FileTarget(Name=logfile): Opening /app/bin/Debug/net6.0/D:/My Code/GlobalAPIServices/GlobalAPIServices/GlobalAPIServices/logs/2024-01-05_logfile.txt with allowFileSharedWriting=False
+2024-01-05 08:06:45.5704 Debug FileTarget(Name=logfile): Failed to retrieve FileInfo.CreationTimeUtc from FileName: /app/bin/Debug/net6.0/D:/My Code/GlobalAPIServices/GlobalAPIServices/GlobalAPIServices/logs/2024-01-05_logfile.txt Exception: System.IO.DirectoryNotFoundException: Could not find a part of the path '/app/bin/Debug/net6.0/D:/My Code/GlobalAPIServices/GlobalAPIServices/GlobalAPIServices/logs/2024-01-05_logfile.txt'.
+   at Interop.ThrowExceptionForIoErrno(ErrorInfo errorInfo, String path, Boolean isDirectory, Func`2 errorRewriter)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.UpdateCreationTime()
+2024-01-05 08:06:45.5704 Debug FileTarget(Name=logfile): DirectoryNotFoundException - Attempting to create directory for FileName: /app/bin/Debug/net6.0/D:/My Code/GlobalAPIServices/GlobalAPIServices/GlobalAPIServices/logs/2024-01-05_logfile.txt

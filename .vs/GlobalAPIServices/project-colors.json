@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c15ff273-05f6-4198-a5c0-d5e25b4fcd48": {
+      "ProjectGuid": "c15ff273-05f6-4198-a5c0-d5e25b4fcd48",
+      "DisplayName": "GlobalAPIServices",
+      "ColorIndex": 0
+    },
+    "d87f7d13-9c07-4d4c-8326-fba5be31a58a": {
+      "ProjectGuid": "d87f7d13-9c07-4d4c-8326-fba5be31a58a",
+      "DisplayName": "LoggerService",
+      "ColorIndex": 1
+    },
+    "dcefbd03-8e3c-4f91-bbb8-82fe9a9a91a2": {
+      "ProjectGuid": "dcefbd03-8e3c-4f91-bbb8-82fe9a9a91a2",
+      "DisplayName": "LoggerService",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

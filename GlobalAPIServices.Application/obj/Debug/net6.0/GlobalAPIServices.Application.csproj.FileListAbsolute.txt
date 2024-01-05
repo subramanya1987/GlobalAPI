@@ -1,0 +1,17 @@
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\bin\Debug\net6.0\GlobalAPIServices.Application.deps.json
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\bin\Debug\net6.0\GlobalAPIServices.Application.dll
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\bin\Debug\net6.0\GlobalAPIServices.Application.pdb
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\obj\Debug\net6.0\GlobalAPIServices.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\obj\Debug\net6.0\GlobalAPIServices.Application.AssemblyInfoInputs.cache
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\obj\Debug\net6.0\GlobalAPIServices.Application.AssemblyInfo.cs
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\obj\Debug\net6.0\GlobalAPIServices.Application.csproj.CoreCompileInputs.cache
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\obj\Debug\net6.0\GlobalAPIServices.Application.dll
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\obj\Debug\net6.0\refint\GlobalAPIServices.Application.dll
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\obj\Debug\net6.0\GlobalAPIServices.Application.pdb
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\obj\Debug\net6.0\ref\GlobalAPIServices.Application.dll
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\bin\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.dll
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\bin\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.pdb
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\obj\Debug\net6.0\GlobalAPIServices.Application.csproj.AssemblyReference.cache
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\obj\Debug\net6.0\GlobalAPIServices.Application.csproj.CopyComplete
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\bin\Debug\net6.0\GlobalAPIServices.Domain.Model.dll
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Application\bin\Debug\net6.0\GlobalAPIServices.Domain.Model.pdb

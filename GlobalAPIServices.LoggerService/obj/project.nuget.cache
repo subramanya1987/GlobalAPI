@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XN/YioNKVQklZcNbvCyAmhgKK60YujQnutnwuckRufXG6O5EECoOYzCYEC6SY/XxOQR/+1vTOUb8CatqorNDNw==",
+  "success": true,
+  "projectFilePath": "D:\\My Code\\GlobalAPIServices\\GlobalAPIServices\\GlobalAPIServices.LoggerService\\GlobalAPIServices.LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\subra\\.nuget\\packages\\nlog\\5.2.4\\nlog.5.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}

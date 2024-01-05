@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace GlobalAPIServices.Infrastracture.Repository.UserManagementData
+{
+    public partial class Client
+    {
+        public Client()
+        {
+            Applications = new HashSet<Application>();
+        }
+
+        public Guid Id { get; set; }
+        public string? Name { get; set; }
+        public string? FirstName { get; set; }
+        public string? MiddleName { get; set; }
+        public string? LastName { get; set; }
+        public string? Address1 { get; set; }
+        public string? Address2 { get; set; }
+        public string? Address3 { get; set; }
+        public string? Address4 { get; set; }
+        public string? City { get; set; }
+        public string? State { get; set; }
+        public string? Country { get; set; }
+        public string? PinCode { get; set; }
+        public string? Phone1 { get; set; }
+        public string? Phone2 { get; set; }
+        public string? Mobile1 { get; set; }
+        public string? Mobile2 { get; set; }
+        public string? Email1 { get; set; }
+        public string? Email2 { get; set; }
+        public bool? IsActive { get; set; }
+        public string? CreatedBy { get; set; }
+        public DateTime? CreatedDate { get; set; }
+        public string? ModifiedBy { get; set; }
+        public DateTime? ModifiedDate { get; set; }
+
+        public virtual ICollection<Application> Applications { get; set; }
+    }
+}

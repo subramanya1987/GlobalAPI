@@ -1,0 +1,12 @@
+D:\My Code\GlobalAPIServices\GlobalAPIServices\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+D:\My Code\GlobalAPIServices\GlobalAPIServices\LoggerService\bin\Debug\net6.0\LoggerService.dll
+D:\My Code\GlobalAPIServices\GlobalAPIServices\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+D:\My Code\GlobalAPIServices\GlobalAPIServices\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+D:\My Code\GlobalAPIServices\GlobalAPIServices\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Code\GlobalAPIServices\GlobalAPIServices\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+D:\My Code\GlobalAPIServices\GlobalAPIServices\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+D:\My Code\GlobalAPIServices\GlobalAPIServices\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\My Code\GlobalAPIServices\GlobalAPIServices\LoggerService\obj\Debug\net6.0\LoggerService.dll
+D:\My Code\GlobalAPIServices\GlobalAPIServices\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
+D:\My Code\GlobalAPIServices\GlobalAPIServices\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+D:\My Code\GlobalAPIServices\GlobalAPIServices\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll

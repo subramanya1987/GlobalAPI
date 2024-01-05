@@ -1,0 +1,17 @@
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\bin\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.deps.json
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\bin\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.runtimeconfig.json
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\bin\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.dll
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\bin\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.pdb
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\obj\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.csproj.AssemblyReference.cache
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\obj\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\obj\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.AssemblyInfoInputs.cache
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\obj\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.AssemblyInfo.cs
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\obj\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.csproj.CoreCompileInputs.cache
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\obj\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.dll
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\obj\Debug\net6.0\refint\GlobalAPIServices.Infrastracture.Repository.dll
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\obj\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.pdb
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\obj\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.genruntimeconfig.cache
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\obj\Debug\net6.0\ref\GlobalAPIServices.Infrastracture.Repository.dll
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\bin\Debug\net6.0\GlobalAPIServices.Domain.Model.dll
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\bin\Debug\net6.0\GlobalAPIServices.Domain.Model.pdb
+D:\My Code\GlobalAPIServices\GlobalAPIServices\GlobalAPIServices.Infrastracture.Repository\obj\Debug\net6.0\GlobalAPIServices.Infrastracture.Repository.csproj.CopyComplete
